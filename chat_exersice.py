@@ -20,7 +20,8 @@ sara = {
     "name" : "Sara",
     "age" : 29,
     "city" : "Boston",
-    "hobby": "bake"
+    "hobby": "bake",
+    "hobbies": "baking"
 }
 
 print(sara["name"])
