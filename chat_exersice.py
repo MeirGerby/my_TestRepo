@@ -1,8 +1,3 @@
-person = {
-    "name": "Meir",
-    "age": 25,
-    "city": "Jerusalem"
-}
 
 print(person["city"])
 person["job"] = "Programmer"
